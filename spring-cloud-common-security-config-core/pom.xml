@@ -7,6 +7,9 @@
 		<version>1.8.4-SNAPSHOT</version>
 	</parent>
 	<artifactId>spring-cloud-common-security-config-core</artifactId>
+	<properties>
+		<spring-security-oauth2-client.version>5.7.5</spring-security-oauth2-client.version>
+	</properties>
 
 	<dependencies>
 		<dependency>
